@@ -175,28 +175,23 @@
     font-size-adjust: auto;
     justify-content: center;
     background-color: #8a2223;
-}
+/* Style The Dropdown Button */
 .dropbtn {
-    padding: 16px;
-    cursor: pointer;
-    border-top-left-radius: 15px;
-    border-top-right-radius: 15px;
-    display: flex;
-    align-content: center;
-    height: 50px;
-    width: 50vw;
-    min-width: 75px;
-    color: #eac580;
-    font-size-adjust: auto;
-    justify-content: center;
-    background-color: #8a2223;
+  background-color: #4CAF50;
+  color: white;
+  padding: 16px;
+  font-size: 16px;
+  border: none;
+  cursor: pointer;
 }
 
+/* The container <div> - needed to position the dropdown content */
 .dropdown {
   position: relative;
   display: inline-block;
 }
 
+/* Dropdown Content (Hidden by Default) */
 .dropdown-content {
   display: none;
   position: absolute;
@@ -206,6 +201,7 @@
   z-index: 1;
 }
 
+/* Links inside the dropdown */
 .dropdown-content a {
   color: black;
   padding: 12px 16px;
@@ -213,16 +209,18 @@
   display: block;
 }
 
+/* Change color of dropdown links on hover */
 .dropdown-content a:hover {background-color: #f1f1f1}
 
+/* Show the dropdown menu on hover */
 .dropdown:hover .dropdown-content {
   display: block;
 }
 
+/* Change the background color of the dropdown button when the dropdown content is shown */
 .dropdown:hover .dropbtn {
   background-color: #3e8e41;
 }
-
 .steelblue-child{
     border-top-left-radius: 15px;
     border-top-right-radius: 15px;
