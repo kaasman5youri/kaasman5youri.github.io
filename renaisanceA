@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>kasia games</title>
+<link href ="introbase.css" rel="stylesheet">
+</head>
+<style>
+body {
+    background-size: cover;
+    background-color: #1e3139;
+}
+</style>
+<nav>
+<ul>
+<div class="container">
+<div class="child red-child">
+<h1> </h1>
+</div>
+</div>
+<div class="container0">
+<div class="child red-child0">
+<div class="kasiagamestext0">
+<h1> </h1>
+</div>
+</div>
+</div>
+<div class="container1">
+<div class="red-child2">
+</div>
+<div class="steelblue-child">
+<a href='menu.html' style="color: #eac580"><h1>home</h1></a>
+</div>
+<div class="steelblue-child">
+<a href='games.html' style="color: #eac580"><h1> games</h1></a>
+</div>
+<div class="steelblue-child">
+<a href='https://www.kaas.nl/' style="color: #eac580"><h1> kaas.nl</h1></a>
+</div>
+<div class="steelblue-child-2">
+<div class="dropdown" style="color: #eac580">
+<span>school</span>
+<div class="dropdown-content">
+<a href='soulbreaker.html' style="color: #eac580"><h1>soulbreaker informatica opdracht vwo 5 </h1></a>
+<a href='EnglishLiterature.html' style="color: #eac580"><h1>english </h1></a>
+</div>
+</div>
+</div>
+</div>
+<div class="container2">
+<div class="midnightblue-child4">
+<h1 style="font-size: 30px">Intro</h1>
+ 
+<div class="midnightblue-child5">
+<div class="red-child-3">
+<a href='EnglishLiterature.html' style="color: #eac580"><h1>terug</h1></a>
+</div>
+<div class="red-child-5">
+<a href='theKnightsTale.html' style="color: #eac580"><h1>the Knights Tale</h1></a>
+</div>
+  <div class="red-child-5">
+<a href='renaisanceB.html' style="color: #eac580"><h1>The flea</h1></a>
+</div>
+</div>
+</div>
+</div>
+</ul>
+</nav> 
+</body>
+</html>
