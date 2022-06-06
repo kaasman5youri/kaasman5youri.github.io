@@ -346,7 +346,7 @@
     border-bottom-left-radius: 15px;
     border-bottom-right-radius: 15px;
     image-rendering: pixelated;
-    background: url(textures/crystal%20coin%20texture.png);
+    background: url(../textures/crystal%20coin%20texture.png);
     background-size: contain;
     width: 35vw;
     height: 35vw;
@@ -359,7 +359,7 @@
     border-bottom-left-radius: 15px;
     border-bottom-right-radius: 15px;
     image-rendering: pixelated;
-    background: url(textures/Crystal-Coin-5.png);
+    background: url(../textures/Crystal-Coin-5.png);
     background-size: contain;
     width: 35vw;
     height: 35vw;
@@ -372,7 +372,7 @@
     border-bottom-left-radius: 15px;
     border-bottom-right-radius: 15px;
     image-rendering: pixelated;
-    background-image: url(textures/Crystal-Coin-10.png);
+    background-image: url(../textures/Crystal-Coin-10.png);
     background-size: contain;
     width: 35vw;
     height: 35vw;
@@ -385,7 +385,7 @@
     border-bottom-left-radius: 15px;
     border-bottom-right-radius: 15px;
     image-rendering: pixelated;
-    background-image: url(textures/Crystal-Coin-15.png);
+    background-image: url(../textures/Crystal-Coin-15.png);
     background-size: contain;
     width: 35vw;
     height: 35vw;
@@ -398,7 +398,7 @@
     border-bottom-left-radius: 15px;
     border-bottom-right-radius: 15px;
     image-rendering: pixelated;
-    background-image: url(textures/Crystal-coin-30.png);
+    background-image: url(../textures/Crystal-coin-30.png);
     background-size: contain;
     width: 35vw;
     height: 35vw;
@@ -411,7 +411,7 @@
     border-bottom-left-radius: 15px;
     border-bottom-right-radius: 15px;
     image-rendering: pixelated;
-    background-image: url(textures/blue%20slime%20enemy.png);
+    background-image: url(../textures/blue%20slime%20enemy.png);
     background-size: contain;
     width: 35vw;
     height: 35vw;
@@ -424,7 +424,7 @@
     border-bottom-left-radius: 15px;
     border-bottom-right-radius: 15px;
     image-rendering: pixelated;
-    background-image: url(textures/Scorpion%20V1.png);
+    background-image: url(../textures/Scorpion%20V1.png);
     background-size: contain;
     width: 35vw;
     height: 35vw;
@@ -437,7 +437,7 @@
     border-bottom-left-radius: 15px;
     border-bottom-right-radius: 15px;
     image-rendering: pixelated;
-    background: url(textures/robot%20pet%20texture.png);
+    background: url(../textures/robot%20pet%20texture.png);
     background-size: contain;
     width: 35vw;
     height: 35vw;
@@ -450,7 +450,7 @@
     border-bottom-left-radius: 15px;
     border-bottom-right-radius: 15px;
     image-rendering: pixelated;
-    background-image: url(textures/kaas%20pet%20texture.png);
+    background-image: url(../textures/kaas%20pet%20texture.png);
     background-size: contain;
     width: 35vw;
     height: 35vw;
@@ -463,7 +463,7 @@
     border-bottom-left-radius: 15px;
     border-bottom-right-radius: 15px;
     image-rendering: pixelated;
-    background-image: url(textures/dog%20with%20hat%20texture.png);
+    background-image: url(../textures/dog%20with%20hat%20texture.png);
     background-size: contain;
     width: 35vw;
     height: 35vw;
@@ -619,7 +619,7 @@
     border-bottom-left-radius: 15px;
     border-bottom-right-radius: 15px;
     image-rendering: pixelated;
-    background-image: url("textures/cactus-active%20walking%20frame%202.png");
+    background-image: url(../textures/cactus-active%20walking%20frame%202.png);
     background-size: contain;
     width: 35vw;
     height: 35vw;
@@ -632,7 +632,7 @@
     border-bottom-left-radius: 15px;
     border-bottom-right-radius: 15px;
     image-rendering: pixelated;
-    background-image: url("textures/robot%20cactus%20walking%20frame%202.png");
+    background-image: url(../textures/robot%20cactus%20walking%20frame%202.png);
     background-size: contain;
     width: 35vw;
     height: 35vw;
@@ -645,7 +645,7 @@
     border-bottom-left-radius: 15px;
     border-bottom-right-radius: 15px;
     image-rendering: pixelated;
-    background-image: url("textures/small%20explosive%20cactus%20walking%20frame%202.png");
+    background-image: url(../textures/small%20explosive%20cactus%20walking%20frame%202.png);
     background-size: contain;
     width: 35vw;
     height: 35vw;
