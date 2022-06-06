@@ -393,7 +393,7 @@
     border-bottom-left-radius: 15px;
     border-bottom-right-radius: 15px;
     image-rendering: pixelated;
-    background: url(textures/aim%20reticle%20texture.png);
+    background: url(../textures/aim%20reticle%20texture.png);
     background-size: contain;
     width: 150px;
     height: 150px;
@@ -404,7 +404,7 @@
     border-bottom-left-radius: 15px;
     border-bottom-right-radius: 15px;
     image-rendering: pixelated;
-    background-image: url(textures/blue%20slime%20enemy.png);
+    background-image: url(../textures/blue%20slime%20enemy.png);
     background-size: contain;
     width: 150px;
     height: 150px;
@@ -415,7 +415,7 @@
     border-bottom-left-radius: 15px;
     border-bottom-right-radius: 15px;
     image-rendering: pixelated;
-    background-image: url(textures/boss%20health%20bar.png);
+    background-image: url(../textures/boss%20health%20bar.png);
     background-size: contain;
     width: 150px;
     height: 150px;
@@ -426,7 +426,7 @@
     border-bottom-left-radius: 15px;
     border-bottom-right-radius: 15px;
     image-rendering: pixelated;
-    background: url(textures/crystal%20coin%20texture.png);
+    background: url(../textures/crystal%20coin%20texture.png);
     background-size: contain;
     width: 150px;
     height: 150px;
@@ -437,7 +437,7 @@
     border-bottom-left-radius: 15px;
     border-bottom-right-radius: 15px;
     image-rendering: pixelated;
-    background-image: url(textures/dog%20with%20hat%20texture.png);
+    background-image: url(../textures/dog%20with%20hat%20texture.png);
     background-size: contain;
     width: 150px;
     height: 150px;
@@ -448,7 +448,7 @@
     border-bottom-left-radius: 15px;
     border-bottom-right-radius: 15px;
     image-rendering: pixelated;
-    background-image: url(textures/floor%20edge.png);
+    background-image: url(../textures/floor%20edge.png);
     background-size: contain;
     width: 150px;
     height: 150px;
@@ -459,7 +459,7 @@
     border-bottom-left-radius: 15px;
     border-bottom-right-radius: 15px;
     image-rendering: pixelated;
-    background: url(textures/hub%20door%20texture.png);
+    background: url(../textures/hub%20door%20texture.png);
     background-size: contain;
     width: 150px;
     height: 150px;
@@ -470,7 +470,7 @@
     border-bottom-left-radius: 15px;
     border-bottom-right-radius: 15px;
     image-rendering: pixelated;
-    background-image: url(textures/hub%20floor%20texture.png);
+    background-image: url(../textures/hub%20floor%20texture.png);
     background-size: contain;
     width: 150px;
     height: 150px;
@@ -481,7 +481,7 @@
     border-bottom-left-radius: 15px;
     border-bottom-right-radius: 15px;
     image-rendering: pixelated;
-    background-image: url(textures/hub%20puching%20bag.png);
+    background-image: url(../textures/hub%20puching%20bag.png);
     background-size: contain;
     width: 150px;
     height: 150px;
@@ -492,7 +492,7 @@
     border-bottom-left-radius: 15px;
     border-bottom-right-radius: 15px;
     image-rendering: pixelated;
-    background-image: url(textures/hub%20wall%20texture.png);
+    background-image: url(../textures/hub%20wall%20texture.png);
     background-size: contain;
     width: 150px;
     height: 150px;
@@ -503,7 +503,7 @@
     border-bottom-left-radius: 15px;
     border-bottom-right-radius: 15px;
     image-rendering: pixelated;
-    background: url(textures/jungle%20cobble%20stone%20wall%20texture.png);
+    background: url(../textures/jungle%20cobble%20stone%20wall%20texture.png);
     background-size: contain;
     width: 150px;
     height: 150px;
@@ -514,7 +514,7 @@
     border-bottom-left-radius: 15px;
     border-bottom-right-radius: 15px;
     image-rendering: pixelated;
-    background-image: url(textures/jungle%20dirt%20ground%2016x16.png);
+    background-image: url(../textures/jungle%20dirt%20ground%2016x16.png);
     background-size: contain;
     width: 150px;
     height: 150px;
@@ -525,7 +525,7 @@
     border-bottom-left-radius: 15px;
     border-bottom-right-radius: 15px;
     image-rendering: pixelated;
-    background-image: url(textures/jungle%20dirt%20ground%20texture.png);
+    background-image: url(../textures/jungle%20dirt%20ground%20texture.png);
     background-size: contain;
     width: 150px;
     height: 150px;
@@ -536,7 +536,7 @@
     border-bottom-left-radius: 15px;
     border-bottom-right-radius: 15px;
     image-rendering: pixelated;
-    background: url(textures/jungle%20stone%20wall%20texture.png);
+    background: url(../textures/jungle%20stone%20wall%20texture.png);
     background-size: contain;
     width: 150px;
     height: 150px;
@@ -547,7 +547,7 @@
     border-bottom-left-radius: 15px;
     border-bottom-right-radius: 15px;
     image-rendering: pixelated;
-    background-image: url(textures/kaas%20pet%20texture.png);
+    background-image: url(../textures/kaas%20pet%20texture.png);
     background-size: contain;
     width: 150px;
     height: 150px;
@@ -558,7 +558,7 @@
     border-bottom-left-radius: 15px;
     border-bottom-right-radius: 15px;
     image-rendering: pixelated;
-    background-image: url(textures/player%20health%20bar%20texture.png);
+    background-image: url(../textures/player%20health%20bar%20texture.png);
     background-size: contain;
     width: 150px;
     height: 150px;
@@ -569,7 +569,7 @@
     border-bottom-left-radius: 15px;
     border-bottom-right-radius: 15px;
     image-rendering: pixelated;
-    background: url(textures/robot%20pet%20texture.png);
+    background: url(../textures/robot%20pet%20texture.png);
     background-size: contain;
     width: 150px;
     height: 150px;
@@ -580,7 +580,7 @@
     border-bottom-left-radius: 15px;
     border-bottom-right-radius: 15px;
     image-rendering: pixelated;
-    background-image: url(textures/spike%20trap.png);
+    background-image: url(../textures/spike%20trap.png);
     background-size: contain;
     width: 150px;
     height: 150px;
@@ -591,7 +591,7 @@
     border-bottom-left-radius: 15px;
     border-bottom-right-radius: 15px;
     image-rendering: pixelated;
-    background-image: url(textures/stone%20wall%20texture.png);
+    background-image: url(../textures/stone%20wall%20texture.png);
     background-size: contain;
     width: 150px;
     height: 150px;
@@ -602,7 +602,7 @@
     border-bottom-left-radius: 15px;
     border-bottom-right-radius: 15px;
     image-rendering: pixelated;
-    background-image: url(textures/temp-mel-upg-tmpl2.png);
+    background-image: url(../textures/temp-mel-upg-tmpl2.png);
     background-size: contain;
     width: 150px;
     height: 150px;
@@ -613,7 +613,7 @@
     border-bottom-left-radius: 15px;
     border-bottom-right-radius: 15px;
     image-rendering: pixelated;
-    background: url(textures/temp-mvm-upg=tmpl.png);
+    background: url(../textures/temp-mvm-upg=tmpl.png);
     background-size: contain;
     width: 150px;
     height: 150px;
@@ -624,7 +624,7 @@
     border-bottom-left-radius: 15px;
     border-bottom-right-radius: 15px;
     image-rendering: pixelated;
-    background-image: url(textures/water%20texture.png);
+    background-image: url(../textures/water%20texture.png);
     background-size: contain;
     width: 150px;
     height: 150px;
@@ -635,7 +635,7 @@
     border-bottom-left-radius: 15px;
     border-bottom-right-radius: 15px;
     image-rendering: pixelated;
-    background-image: url(textures/back-player-walk-f1.png);
+    background-image: url(../textures/back-player-walk-f1.png);
     background-size: contain;
     width: 150px;
     height: 150px;
@@ -646,7 +646,7 @@
     border-bottom-left-radius: 15px;
     border-bottom-right-radius: 15px;
     image-rendering: pixelated;
-    background-image: url(textures/Basic%20player%20base%20design.png);
+    background-image: url(../textures/Basic%20player%20base%20design.png);
     background-size: contain;
     width: 150px;
     height: 150px;
@@ -657,7 +657,7 @@
     border-bottom-left-radius: 15px;
     border-bottom-right-radius: 15px;
     image-rendering: pixelated;
-    background-image: url(textures/Basic%20player%20design%20back%20V1.png);
+    background-image: url(../textures/Basic%20player%20design%20back%20V1.png);
     background-size: contain;
     width: 150px;
     height: 150px;
@@ -668,7 +668,7 @@
     border-bottom-left-radius: 15px;
     border-bottom-right-radius: 15px;
     image-rendering: pixelated;
-    background: url(textures/Basic%20player%20design.png);
+    background: url(../textures/Basic%20player%20design.png);
     background-size: contain;
     width: 150px;
     height: 150px;
@@ -679,7 +679,7 @@
     border-bottom-left-radius: 15px;
     border-bottom-right-radius: 15px;
     image-rendering: pixelated;
-    background-image: url(textures/Coin%20Counter%20templ.png);
+    background-image: url(../textures/Coin%20Counter%20templ.png);
     background-size: contain;
     width: 150px;
     height: 150px;
@@ -690,7 +690,7 @@
     border-bottom-left-radius: 15px;
     border-bottom-right-radius: 15px;
     image-rendering: pixelated;
-    background-image: url(textures/Crystal-Coin-5.png);
+    background-image: url(../textures/Crystal-Coin-5.png);
     background-size: contain;
     width: 150px;
     height: 150px;
@@ -701,7 +701,7 @@
     border-bottom-left-radius: 15px;
     border-bottom-right-radius: 15px;
     image-rendering: pixelated;
-    background-image: url(textures/Crystal-Coin-10.png);
+    background-image: url(../textures/Crystal-Coin-10.png);
     background-size: contain;
     width: 150px;
     height: 150px;
@@ -712,7 +712,7 @@
     border-bottom-left-radius: 15px;
     border-bottom-right-radius: 15px;
     image-rendering: pixelated;
-    background: url(textures/Crystal-Coin-15.png);
+    background: url(../textures/Crystal-Coin-15.png);
     background-size: contain;
     width: 150px;
     height: 150px;
@@ -723,7 +723,7 @@
     border-bottom-left-radius: 15px;
     border-bottom-right-radius: 15px;
     image-rendering: pixelated;
-    background-image: url(textures/Crystal-coin-30.png);
+    background-image: url(../textures/Crystal-coin-30.png);
     background-size: contain;
     width: 150px;
     height: 150px;
@@ -734,7 +734,7 @@
     border-bottom-left-radius: 15px;
     border-bottom-right-radius: 15px;
     image-rendering: pixelated;
-    background-image: url(textures/front-player-transparent.png);
+    background-image: url(../textures/front-player-transparent.png);
     background-size: contain;
     width: 150px;
     height: 150px;
@@ -745,7 +745,7 @@
     border-bottom-left-radius: 15px;
     border-bottom-right-radius: 15px;
     image-rendering: pixelated;
-    background-image: url(textures/front-player-walk-f1.png);
+    background-image: url(../textures/front-player-walk-f1.png);
     background-size: contain;
     width: 150px;
     height: 150px;
@@ -756,7 +756,7 @@
     border-bottom-left-radius: 15px;
     border-bottom-right-radius: 15px;
     image-rendering: pixelated;
-    background: url(textures/cactus%20arrow.png);
+    background: url(../textures/cactus%20arrow.png);
     background-size: contain;
     width: 150px;
     height: 150px;
@@ -767,7 +767,7 @@
     border-bottom-left-radius: 15px;
     border-bottom-right-radius: 15px;
     image-rendering: pixelated;
-    background-image: url(textures/cactus%20blade.png);
+    background-image: url(../textures/cactus%20blade.png);
     background-size: contain;
     width: 150px;
     height: 150px;
@@ -778,7 +778,7 @@
     border-bottom-left-radius: 15px;
     border-bottom-right-radius: 15px;
     image-rendering: pixelated;
-    background: url(textures/cactus%20bow%20body.png);
+    background: url(../textures/cactus%20bow%20body.png);
     background-size: contain;
     width: 150px;
     height: 150px;
@@ -789,7 +789,7 @@
     border-bottom-left-radius: 15px;
     border-bottom-right-radius: 15px;
     image-rendering: pixelated;
-    background-image: url(textures/cactus%20bow%20string.png);
+    background-image: url(../textures/cactus%20bow%20string.png);
     background-size: contain;
     width: 150px;
     height: 150px;
@@ -800,7 +800,7 @@
     border-bottom-left-radius: 15px;
     border-bottom-right-radius: 15px;
     image-rendering: pixelated;
-    background-image: url(textures/cactus%20bow.png);
+    background-image: url(../textures/cactus%20bow.png);
     background-size: contain;
     width: 150px;
     height: 150px;
@@ -811,7 +811,7 @@
     border-bottom-left-radius: 15px;
     border-bottom-right-radius: 15px;
     image-rendering: pixelated;
-    background-image: url(textures/cactus%20shuriken.png);
+    background-image: url(../textures/cactus%20shuriken.png);
     background-size: contain;
     width: 150px;
     height: 150px;
@@ -822,7 +822,7 @@
     border-bottom-left-radius: 15px;
     border-bottom-right-radius: 15px;
     image-rendering: pixelated;
-    background: url(textures/cactus%20sword%20gaurd.png);
+    background: url(../textures/cactus%20sword%20gaurd.png);
     background-size: contain;
     width: 150px;
     height: 150px;
@@ -833,7 +833,7 @@
     border-bottom-left-radius: 15px;
     border-bottom-right-radius: 15px;
     image-rendering: pixelated;
-    background-image: url(textures/cactus%20sword%20handle.png);
+    background-image: url(../textures/cactus%20sword%20handle.png);
     background-size: contain;
     width: 150px;
     height: 150px;
@@ -844,7 +844,7 @@
     border-bottom-left-radius: 15px;
     border-bottom-right-radius: 15px;
     image-rendering: pixelated;
-    background-image: url(textures/cactus%20sword.png);
+    background-image: url(../textures/cactus%20sword.png);
     background-size: contain;
     width: 150px;
     height: 150px;
@@ -855,7 +855,7 @@
     border-bottom-left-radius: 15px;
     border-bottom-right-radius: 15px;
     image-rendering: pixelated;
-    background-image: url("textures/cactus-active%20walking%20frame%202.png");
+    background-image: url(../textures/cactus-active%20walking%20frame%202.png);
     background-size: contain;
     width: 150px;
     height: 150px;
@@ -866,7 +866,7 @@
     border-bottom-left-radius: 15px;
     border-bottom-right-radius: 15px;
     image-rendering: pixelated;
-    background: url(textures/cactus-active%20walking%20frame%201.png);
+    background: url(../textures/cactus-active%20walking%20frame%201.png);
     background-size: contain;
     width: 150px;
     height: 150px;
@@ -877,7 +877,7 @@
     border-bottom-left-radius: 15px;
     border-bottom-right-radius: 15px;
     image-rendering: pixelated;
-    background-image: url(textures/cactus-active%20walking%20frame%203.png);
+    background-image: url(../textures/cactus-active%20walking%20frame%203.png);
     background-size: contain;
     width: 150px;
     height: 150px;
@@ -888,7 +888,7 @@
     border-bottom-left-radius: 15px;
     border-bottom-right-radius: 15px;
     image-rendering: pixelated;
-    background: url(textures/cactus-active%20attack%20frame.png);
+    background: url(../textures/cactus-active%20attack%20frame.png);
     background-size: contain;
     width: 150px;
     height: 150px;
@@ -899,7 +899,7 @@
     border-bottom-left-radius: 15px;
     border-bottom-right-radius: 15px;
     image-rendering: pixelated;
-    background-image: url(textures/cactus-passive.png);
+    background-image: url(../textures/cactus-passive.png);
     background-size: contain;
     width: 150px;
     height: 150px;
@@ -910,7 +910,7 @@
     border-bottom-left-radius: 15px;
     border-bottom-right-radius: 15px;
     image-rendering: pixelated;
-    background-image: url(textures/ExplosiveCactusArrow.png);
+    background-image: url(../textures/ExplosiveCactusArrow.png);
     background-size: contain;
     width: 150px;
     height: 150px;
@@ -921,7 +921,7 @@
     border-bottom-left-radius: 15px;
     border-bottom-right-radius: 15px;
     image-rendering: pixelated;
-    background-image: url(textures/robot%20cactus%20walking%20frame%201.png);
+    background-image: url(../textures/robot%20cactus%20walking%20frame%201.png);
     background-size: contain;
     width: 150px;
     height: 150px;
@@ -932,7 +932,7 @@
     border-bottom-left-radius: 15px;
     border-bottom-right-radius: 15px;
     image-rendering: pixelated;
-    background: url(textures/robot%20cactus%20walking%20frame%202.png);
+    background: url(../textures/robot%20cactus%20walking%20frame%202.png);
     background-size: contain;
     width: 150px;
     height: 150px;
@@ -943,7 +943,7 @@
     border-bottom-left-radius: 15px;
     border-bottom-right-radius: 15px;
     image-rendering: pixelated;
-    background-image: url(textures/robot%20cactus%20attack%20frame%201.png);
+    background-image: url(../textures/robot%20cactus%20attack%20frame%201.png);
     background-size: contain;
     width: 150px;
     height: 150px;
@@ -954,7 +954,7 @@
     border-bottom-left-radius: 15px;
     border-bottom-right-radius: 15px;
     image-rendering: pixelated;
-    background-image: url(textures/robot%20cactus%20attack%20frame%202.png);
+    background-image: url(../textures/robot%20cactus%20attack%20frame%202.png);
     background-size: contain;
     width: 150px;
     height: 150px;
@@ -965,7 +965,7 @@
     border-bottom-left-radius: 15px;
     border-bottom-right-radius: 15px;
     image-rendering: pixelated;
-    background-image: url("textures/small%20explosive%20cactus%20attack%20frame.png");
+    background-image: url(../textures/small%20explosive%20cactus%20attack%20frame.png);
     background-size: contain;
     width: 150px;
     height: 150px;
@@ -976,7 +976,7 @@
     border-bottom-left-radius: 15px;
     border-bottom-right-radius: 15px;
     image-rendering: pixelated;
-    background: url(textures/small%20explosive%20cactus%20walking%20frame%201.png);
+    background: url(../textures/small%20explosive%20cactus%20walking%20frame%201.png);
     background-size: contain;
     width: 150px;
     height: 150px;
@@ -987,7 +987,7 @@
     border-bottom-left-radius: 15px;
     border-bottom-right-radius: 15px;
     image-rendering: pixelated;
-    background-image: url(textures/small%20explosive%20cactus%20walking%20frame%202.png);
+    background-image: url(../textures/small%20explosive%20cactus%20walking%20frame%202.png);
     background-size: contain;
     width: 150px;
     height: 150px;
@@ -998,7 +998,7 @@
     border-bottom-left-radius: 15px;
     border-bottom-right-radius: 15px;
     image-rendering: pixelated;
-    background: url(textures/small%20explosive%20cactus%20walking%20frame%203.png);
+    background: url(../textures/small%20explosive%20cactus%20walking%20frame%203.png);
     background-size: contain;
     width: 150px;
     height: 150px;
@@ -1009,7 +1009,7 @@
     border-bottom-left-radius: 15px;
     border-bottom-right-radius: 15px;
     image-rendering: pixelated;
-    background-image: url(textures/Slime%20Blade.png);
+    background-image: url(../textures/Slime%20Blade.png);
     background-size: contain;
     width: 150px;
     height: 150px;
@@ -1020,7 +1020,7 @@
     border-bottom-left-radius: 15px;
     border-bottom-right-radius: 15px;
     image-rendering: pixelated;
-    background-image: url(textures/Slime%20Guard.png);
+    background-image: url(../textures/Slime%20Guard.png);
     background-size: contain;
     width: 150px;
     height: 150px;
@@ -1031,7 +1031,7 @@
     border-bottom-left-radius: 15px;
     border-bottom-right-radius: 15px;
     image-rendering: pixelated;
-    background-image: url(textures/Slime%20Handle.png);
+    background-image: url(../textures/Slime%20Handle.png);
     background-size: contain;
     width: 150px;
     height: 150px;
@@ -1042,7 +1042,7 @@
     border-bottom-left-radius: 15px;
     border-bottom-right-radius: 15px;
     image-rendering: pixelated;
-    background: url(textures/Slime%20Sword.png);
+    background: url(../textures/Slime%20Sword.png);
     background-size: contain;
     width: 150px;
     height: 150px;
@@ -1053,7 +1053,7 @@
     border-bottom-left-radius: 15px;
     border-bottom-right-radius: 15px;
     image-rendering: pixelated;
-    background-image: url(textures/wood%20texture%20basic.png);
+    background-image: url(../textures/wood%20texture%20basic.png);
     background-size: contain;
     width: 150px;
     height: 150px;
@@ -1064,7 +1064,7 @@
     border-bottom-left-radius: 15px;
     border-bottom-right-radius: 15px;
     image-rendering: pixelated;
-    background-image: url(textures/cactus-passive.png);
+    background-image: url(../textures/cactus-passive.png);
     background-size: contain;
     width: 150px;
     height: 150px;
@@ -1075,7 +1075,7 @@
     border-bottom-left-radius: 15px;
     border-bottom-right-radius: 15px;
     image-rendering: pixelated;
-    background-image: url("textures/cactus-active%20walking%20frame%202.png");
+    background-image: url(../textures/cactus-active%20walking%20frame%202.png);
     background-size: contain;
     width: 150px;
     height: 150px;
@@ -1086,7 +1086,7 @@
     border-bottom-left-radius: 15px;
     border-bottom-right-radius: 15px;
     image-rendering: pixelated;
-    background-image: url(textures/Slime%20Bow&20Body.png);
+    background-image: url(../textures/Slime%20Bow&20Body.png);
     background-size: contain;
     width: 150px;
     height: 150px;
