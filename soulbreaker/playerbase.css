@@ -362,7 +362,7 @@
     border-bottom-left-radius: 15px;
     border-bottom-right-radius: 15px;
     image-rendering: pixelated;
-    background: url(textures/Basic%20player%20design.png);
+    background: url(../textures/Basic%20player%20design.png);
     background-size: contain;
     width: 35vw;
     height: 35vw;
@@ -375,7 +375,7 @@
     border-bottom-left-radius: 15px;
     border-bottom-right-radius: 15px;
     image-rendering: pixelated;
-    background: url(textures/back-player-walk-f1.png);
+    background: url(../textures/back-player-walk-f1.png);
     background-size: contain;
     width: 35vw;
     height: 35vw;
@@ -388,7 +388,7 @@
     border-bottom-left-radius: 15px;
     border-bottom-right-radius: 15px;
     image-rendering: pixelated;
-    background-image: url(textures/front-player-walk-f1.png);
+    background-image: url(../textures/front-player-walk-f1.png);
     background-size: contain;
     width: 35vw;
     height: 35vw;
@@ -401,7 +401,7 @@
     border-bottom-left-radius: 15px;
     border-bottom-right-radius: 15px;
     image-rendering: pixelated;
-    background-image: url(textures/front-player-walk-f2-v1.png);
+    background-image: url(../textures/front-player-walk-f2-v1.png);
     background-size: contain;
     width: 35vw;
     height: 35vw;
@@ -414,7 +414,7 @@
     border-bottom-left-radius: 15px;
     border-bottom-right-radius: 15px;
     image-rendering: pixelated;
-    background-image: url(textures/front-player-walk-f3-v1.png);
+    background-image: url(../textures/front-player-walk-f3-v1.png);
     background-size: contain;
     width: 35vw;
     height: 35vw;
