@@ -20,6 +20,32 @@
     color: #eac580;
     background-color:#1e3139;
 }
+}
+.dropdown {
+  position: relative;
+  display: inline-block;
+  vertical-align: bottom;
+  font-size: 25px;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  font-size-adjust: auto;
+  border-top-left-radius: 15px;
+  border-top-right-radius: 15px;
+  border-bottom-left-radius: 15px;
+  border-bottom-right-radius: 15px;
+  background-color: #b94545;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  padding: 12px 16px;
+  z-index: 1;
+}
+
+.dropdown:hover .dropdown-content {
+  display: block;
+}
 .kasiagamestext{
     display: flex;
     height: 60px;
