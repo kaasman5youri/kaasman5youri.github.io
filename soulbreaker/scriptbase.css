@@ -234,8 +234,9 @@
     border-top-right-radius: 15px;
     display: flex;
     align-content: center;
+    vertical-align: bottom;
     height: 50px;
-    width: 50vw;
+    width: 10vw;
     min-width: 75px;
     font-size-adjust: auto;
     justify-content: center;
@@ -246,8 +247,9 @@
     border-top-right-radius: 15px;
     display: flex;
     align-content: center;
+    vertical-align: bottom;
     height: 50px;
-    width: 50vw;
+    width: 10vw;
     min-width: 75px;
     font-size-adjust: auto;
     justify-content: center;
