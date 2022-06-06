@@ -26,7 +26,7 @@
     height: 60px;
     width: 800px;
     image-rendering: pixelated;
-    background: url(image/kasiaGamesText.png);
+    background: url(../image/kasiaGamesText.png);
     background-size: cover;
 }
 .container0 {
@@ -55,7 +55,7 @@
     height: 60px;
     width: 800px;
     image-rendering: pixelated;
-    background: url(image/kasiaGamesText.png);
+    background: url(../image/kasiaGamesText.png);
     background-size: cover;
 }
 .container1 {
