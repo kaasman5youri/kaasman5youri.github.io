@@ -48,7 +48,11 @@ body {
 </div>
 <div class="container2">
 <div class="midnightblue-child4">
-<h1>Vijanden<br><br>Welke soort vijanden zijn er en wat doen ze?</h1><p style="font-size: 20px">Er zijn niet veel verschillende soorten vijanden. Er zijn nu nog maar zes vijanden (een blauwe slime, een levende cactus, een robot cactus, twee schorpioenen en een kleine explosieve cactus) en een eindbaas (een schorpioen (concept art, wordt verbeterd) die je hieronder kan zien. De explosieve cactus hebben we later uit de game gehaalt omdat we niet genoeg tijd hadden.
+<h1>Vijanden<br><br>Welke soort vijanden zijn er en wat doen ze?</h1>
+<p style="font-size: 20px">
+    Er zijn niet veel verschillende soorten vijanden.
+    Er zijn nu nog maar zes vijanden (een blauwe slime, een levende cactus, een robot cactus, twee schorpioenen en een kleine explosieve cactus) en een eindbaas (een schorpioen (concept art, wordt verbeterd) die je hieronder kan zien.
+    De explosieve cactus hebben we later uit de game gehaalt omdat we niet genoeg tijd hadden.
 </p><div class="midnightblue-child5">
 <div class="white-child"><img id="a5"></div>
 <div class="white-child"><img id="a6"></div>
@@ -73,13 +77,15 @@ body {
     De kogel gebruikt de Normalize functie om de waardes tussen de 0 en de 1 te krijgen daarna worden die waardes gebruikt om de rotatie te krijgen ook wordt daar een variabele RandomDirection bij opgeteld die zorgt dat een kogel niet precies recht gaat.
     Er wordt een andere variabele gebruikt om te bepalen wat de minimale en maximale waardes van RandomDirection zijn.
     Daarna verandert hij aan zijn rotatie door transform.position.rotation te gebruiken.
-    De dingen die hiervoor zijn verteld doet de kogel in Start(Start wordt maar een keer gedaan per kogel.) dat gebuirt voor FixedUpdate(We gebruiken FixedUpdate inplaats van Update omdat FixedUpdate om de zoveel miliseconden een update doet en Update iedere frame een update doet.).
+    De dingen die hiervoor zijn verteld doet de kogel in Start(Start wordt maar een keer gedaan per kogel.) dat gebuirt voor FixedUpdate(We gebruiken FixedUpdate inplaats van Update omdat FixedUpdate om de zoveel miliseconden een update doet en Update iedere frame een update doet. Als we wel Update gebruiken dan gaat de kogel sneler als de fps hoger is.).
     In FixedUpdate wordt een variabele Direction vermenigvuldigt met een variabele BulletSpeed wat daarna wordt opgeteld bij de transform.position van de kogel.
     Om te zorgen dat de kogels niet door een muur heen gaan wordt de functie OnTriggerExit gebruikt.
     Als de kogel dan uit een trigger gaat wordt hij verwijderd.
-    Bijna elk object heeft een trigger.
+    Bijna elk GameObject in onze game heeft een boxCollider (een boxCollider is een balk om een GameObject heen die niet kan zien als je game speelt, maar die GameObject kunnen gebruiken om te kijken of er iets in de collider is.) met een trigger.
     Om te zorgen dat de kogel niet wordt verwijderd door de trigger van de vijand word er gekeken naar van welk object de trigger is en als het niet de vijand is wordt het object verwijderd.
-    Bij de speler wordt er gekeken naar de afstand tot de speler en als de pijl dicht in de buurt van de speler is wordt er van de variabele playerHealth.PlayerHealth de waarde van de vrariabele arrowDamage afgehaalt.
+    Bij de speler wordt er gekeken naar de afstand tot de speler en als de pijl dicht in de buurt van de speler is wordt er van de variabele playerHealth.PlayerHealth (De variabele PlayerHealth is een variabele in het script die playerHealth heet. Het is een public static int zodat we het in andere scripts kunnen veranderen.) de waarde van de variabele arrowDamage afgehaalt.
+</p>
+<p style="font-size: 20px">
     Ook hebben we een eindbaas gemaakt die eindbaas is een schorpioen.
     De eindbaas heeft drie aanvallen kleinere schorpioenen op de speler af stuuren, giftige koggels naar de speler gooien en naar de speler graven.
     Voor het spawnen van de kleine schorpionen wordt een ander GameObject geruikt dat object gebruikt een variabel om te bepalen hoeveel vijanden hij moet inladen.
