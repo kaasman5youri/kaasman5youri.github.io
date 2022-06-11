@@ -94,10 +94,60 @@ body {
     Als hij bij de speler is valt hij de speler aan enlaat hij een animatie zien zodat de speler weet dat de eindbaas aanvalt.
     Na de aanval blijft de eindbaas daar een tijdje staan en kan de speler aanvallen.
     Daarna teleporteert de eindbaas terug.
-    Ook hadden we het idee dat je geld krijgt als je een vijand verslaat.
-    Dat geld kan je dan gebruiken om nieuwe wapens te kopen hieronder staat het geld en hoeveel ze waard zijn.</p><div class="midnightblue-child5"><div class="white-child"><img id="a0"><h1>1</h1></div><div class="white-child"><img id="a1"><h1>5</h1></div><div class="white-child"><img id="a2"><h1>10</h1></div><div class="white-child"><img id="a3"><h1>15</h1></div><div class="white-child"><img id="a4"><h1>30</h1></div></div><h2>Welke huisdieren zijn er?</h2><p style="font-size: 20px">Er zijn drie verschillende soorten huisdieren. er is een hond met een hoed, een stuk kaas met een gezicht en benen en een robot. In de game zien ze er leuk uit en volgen ze de speler verder doen ze niks. De huisdieren gebruiken dezelfde pathfinding als de vijanden. Hieronder kan je zien hoe de huisdieren eruit zien.</p><div class="midnightblue-child5"><div class="white-child"><img id="a7"></div><div class="white-child"><img id="a8"></div>
+    Als je een vijand verslaat krijg je geld.
+    Dat geld kan je dan gebruiken om nieuwe onderdelen van wapens te kopen hieronder staat het geld en hoeveel ze waard zijn.
+</p>
+<div class="midnightblue-child5">
+<div class="white-child"><img id="a0"><h1>1</h1></div>
+<div class="white-child"><img id="a1"><h1>5</h1></div>
+<div class="white-child"><img id="a2"><h1>10</h1></div>
+<div class="white-child"><img id="a3"><h1>15</h1></div>
+<div class="white-child"><img id="a4"><h1>30</h1></div></div>
+<h2>Welke huisdieren zijn er?</h2><p style="font-size: 20px">
+    Er zijn drie verschillende soorten huisdieren.
+    er is een hond met een hoed, een stuk kaas met een gezicht en benen en een robot.
+    In de game zien ze er leuk uit en volgen ze de speler verder doen ze niks.
+    De huisdieren gebruiken dezelfde pathfinding als de vijanden.
+    Hieronder kan je zien hoe de huisdieren eruit zien.
+</p>
+<div class="midnightblue-child5">
+<div class="white-child"><img id="a7"></div>
+<div class="white-child"><img id="a8"></div>
 <div class="white-child"><img id="a9"></div></div>
-<h3>Hoe werkt de pathfinding?</h3><p style="font-size: 20px">Ik heb de code voor de pathfinding niet zelf gemaakt maar ik denk dat ik ongeveer weet hoe het werkt. Ik heb gekozen voor pathfinding met een flowfield omdat ik veel vijanden in een level wil. Ik gebruik een grid om uit te leggen hoe de pathfinding werkt. Het groene vakje is de speler en de rode vakjes zijn muren.<div class="midnightblue-child5"><div class="white-child2"><img id="a11"></div></div><p style="font-size: 20px">Hij begint bij de speler met een waarde van 1 en doet dan een floodfill waarbij hij kijkt naar de vakjes naast de speler en ze een waarde geeft die 1 hoger is 2. Daarna gaat hij naar de vakjes met de waarde van 2 en  kijkt hij naar de vakjes die daar naast staan en geeft ze een waarde die 1 hoger is dan 3. Dit word herhaald totdat de hele grid vol zit.</p><div class="midnightblue-child5"><div class="white-child2"><img id="a12"></div><div class="white-child2"><img id="a13"></div><div class="white-child2"><img id="a14"></div></div><p style="font-size: 20px">Daarna worden er vectoren gemaakt die beginnen bij het midden van het vakje met de hoogste waarde en wijzen naar het vakje met de laagste waarde die er naast staat.</p><div class="midnightblue-child5"><div class="white-child2"><img id="a15"></div><div class="white-child2"><img id="a16"></div></div><p style="font-size: 20px">Als een vijand in de grid staat kijkt hij op welk vakje hij staat en telt hij de waardes van de vector op bij zijn positie waardoor hij naar de speler beweegt. De zwarte lijn is de route die hij neemt.</p><div class="midnightblue-child5"><div class="white-child2"><img id="a17"></div><div class="white-child2"><img id="a18"></div><div class="white-child2"><img id="a19"></div><div class="white-child2"><img id="a20"></div></div><p style="font-size: 20px">Hieronder kan je een video zien van de vijanden in de game.</p>
+<h3>Hoe werkt de pathfinding?</h3><p style="font-size: 20px">
+    Ik heb de code voor de pathfinding niet zelf gemaakt maar ik denk dat ik ongeveer weet hoe het werkt.
+    Ik heb gekozen voor pathfinding met een flowfield omdat ik veel vijanden in een level wil.
+    Ik gebruik een grid om uit te leggen hoe de pathfinding werkt.
+    Het groene vakje is de speler en de rode vakjes zijn muren.
+<div class="midnightblue-child5">
+<div class="white-child2"><img id="a11"></div></div>
+<p style="font-size: 20px">
+    Hij begint bij de speler met een waarde van 1 en doet dan een floodfill waarbij hij kijkt naar de vakjes naast de speler en ze een waarde geeft die 1 hoger is 2.
+    Daarna gaat hij naar de vakjes met de waarde van 2 en kijkt hij naar de vakjes die daar naast staan en geeft ze een waarde die 1 hoger is dan 3.
+    Dit word herhaald totdat de hele grid vol zit.
+</p>
+<div class="midnightblue-child5">
+<div class="white-child2"><img id="a12"></div>
+<div class="white-child2"><img id="a13"></div>
+<div class="white-child2"><img id="a14"></div></div>
+<p style="font-size: 20px">
+    Daarna worden er vectoren gemaakt die beginnen bij het midden van het vakje met de hoogste waarde en wijzen naar het vakje met de laagste waarde die er naast staat.
+</p>
+<div class="midnightblue-child5">
+<div class="white-child2"><img id="a15"></div>
+<div class="white-child2"><img id="a16"></div></div>
+<p style="font-size: 20px">
+    Als een vijand in de grid staat kijkt hij op welk vakje hij staat en telt hij de waardes van de vector op bij zijn positie waardoor hij naar de speler beweegt.
+    De zwarte lijn is de route die hij neemt.
+</p>
+<div class="midnightblue-child5">
+<div class="white-child2"><img id="a17"></div>
+<div class="white-child2"><img id="a18"></div>
+<div class="white-child2"><img id="a19"></div>
+<div class="white-child2"><img id="a20"></div></div>
+<p style="font-size: 20px">
+    Hieronder kan je een video zien van de vijanden in de game.
+</p>
 <video width="480px" height="320px" controls>
 <source src="videos/enemiesInGame.mp4" type="video/mp4">
 Your browser does not support the video tag.
