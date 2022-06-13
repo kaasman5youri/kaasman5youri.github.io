@@ -135,27 +135,32 @@ Movement:<br>
     Voor aanvallen heeft de speler energie.
     De speler kan zien hoeveel energie hij heeft door te kijken naar het energie balkje die van 0 tot 100 gaat.
     Tijdens het spelen krijgt de speler langzaam energie die hij kan gebruiken om vijanden aan te vallen.
-    
+    <br>
     Als de speler melee aanvallen gebruikt dan kan hij aanvallen door naar een vijand te lopen en er op te klikken.
+    Dan wordt er van de variabele playerHealth.PlayerEnergy de waardes van energieCost uit de arrays playerAttack.weaponStatsPart 1, 2 en 3 afgehaald.
     Zwaarden hebben een swordHitbox en een variabele voor de lengte van het zwaard ook hebben ze andere variabele.
     Alle variabele staan in playerAttack script.
     Als de speler aanvalt en de vijand in de swordHitbox staat dan kijkt de vijand of de afstand tot de speler kleiner is dan de lengte van het wapen.
     Ook kijkt de vijand of de speler genoeg energie heeft.
-    Later leg ik uit wat er gebuirt als de speler kan aanvallen.
-    
+    Later leg ik uit wat er gebuurt als de speler kan aanvallen.
+    <br>
     Als de speler ranged aanvallen gebruikt dan kan hij aanvallen door op een vijand te klikken.
     Als hij op een vijande klikt dan wordt er in de arrays gekeken of de speler genoeg energie heeft en als de speler genoeg energie heeft wordt een pijl ingeladen en wordt de waarde energyCost die uit de arrays wordt gehaalt van de variabele playerHealth.PlayerEnergy afgehaalt.
-    
+    Als een pijl wordt ingeladen kijkt de pijl in Start naar de locatie van de plek waar de speler heeft geklikt en wordt die waarde opgeslagen in de variabele target.
+    Daarna beweegt de pijl naar die locatie met een snelheid die hij uit de arrays heeft gehaald.
+    De pijlen hebben een Hitbox met de naam arrowHitBox.
+    Als de vijand ziet dat hij in de arrowHitBox staat dan wordt de vijand aangevallen.
+    De pijlen gebruiken de functie onTriggerExit om te zorgen dat de pijl wordt verwijdert als hij uit een GameObject gaat.
 </p>
 <h1>Wat gebuirt er met de vijand als hij wordt aangevallen?</h1>
 <p style="font-size: 20px">
     Als de speler dan kan aanvallen wordt er in de arrays playerAttack.weaponStatsPart 1, 2 en 3 gekeken.
-    Dan wordt er van de variabele playerHealth.PlayerEnergy de waardes van energieCost uit de arrays playerAttack.weaponStatsPart 1, 2 en 3 afgehaald.
-    Ook wordt er dan uit dezelfde arrays de waardes voor weaponDamage gehaalt en wordt dat van de variabele EnemyHealth afgehaald.
+    Er wordt dan uit die arrays de waardes voor weaponDamage gehaalt en wordt dat van de variabele EnemyHealth afgehaald.
     Ook beweegt de vijand door de knockback van het wapen die waardes staan ook in de arrays.
     Voor knockback kijkt de vijand naar de positie van de speler en gebruikt hij dat om te bepalen van welke kant hij wordt aangevallen die waarde wordt opgeslagen in de variabele rc.
     Daarna gebruikt hij rc en de waardes voor weaponKnockback die hij uit de arrays haalt om te bepalen waar hij naar toe moet bewegen.
     Voordat de vijand in die directie beweegt doet de vijand eerst een raycast en als daar niks staat dan beweegt de vijand daar naartoe.
+    Als de waarde van de variabele EnemyHealth lager dan 0 is dan wordt de functie DropCoins gedaan en wordt de vijand verwijderd.
     
 </p>
 <div class="midnightblue-child5">
