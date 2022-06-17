@@ -335,7 +335,7 @@
     border-bottom-left-radius: 15px;
     border-bottom-right-radius: 15px;
     image-rendering: pixelated;
-    background: url(../textures/crystal%20coin%20texture.png);
+    background: url(imagee/SoulBreakerChooseClass.png);
     background-size: contain;
     width: 35vw;
     height: 35vw;
@@ -348,7 +348,7 @@
     border-bottom-left-radius: 15px;
     border-bottom-right-radius: 15px;
     image-rendering: pixelated;
-    background: url(../textures/Crystal-Coin-5.png);
+    background: url(image/SoulBreakerShop.png);
     background-size: contain;
     width: 35vw;
     height: 35vw;
@@ -361,7 +361,7 @@
     border-bottom-left-radius: 15px;
     border-bottom-right-radius: 15px;
     image-rendering: pixelated;
-    background-image: url(../textures/Crystal-Coin-10.png);
+    background-image: url(image/SoulBreakerCredit.png);
     background-size: contain;
     width: 35vw;
     height: 35vw;
@@ -374,7 +374,7 @@
     border-bottom-left-radius: 15px;
     border-bottom-right-radius: 15px;
     image-rendering: pixelated;
-    background-image: url(../textures/Crystal-Coin-15.png);
+    background-image: url(image/SoulBreakerMenu.png);
     background-size: contain;
     width: 35vw;
     height: 35vw;
@@ -387,72 +387,7 @@
     border-bottom-left-radius: 15px;
     border-bottom-right-radius: 15px;
     image-rendering: pixelated;
-    background-image: url(../textures/Crystal-coin-30.png);
-    background-size: contain;
-    width: 35vw;
-    height: 35vw;
-    max-height: 200px;
-    max-width: 200px;
-}
-#a5 {
-    border-top-left-radius: 15px;
-    border-top-right-radius: 15px;
-    border-bottom-left-radius: 15px;
-    border-bottom-right-radius: 15px;
-    image-rendering: pixelated;
-    background-image: url(image/LevelGenGrid5.png);
-    background-size: contain;
-    width: 35vw;
-    height: 35vw;
-    max-height: 200px;
-    max-width: 200px;
-}
-#a6 {
-    border-top-left-radius: 15px;
-    border-top-right-radius: 15px;
-    border-bottom-left-radius: 15px;
-    border-bottom-right-radius: 15px;
-    image-rendering: pixelated;
-    background-image: url(image/levelGenGrid6.png);
-    background-size: contain;
-    width: 35vw;
-    height: 35vw;
-    max-height: 200px;
-    max-width: 200px;
-}
-#a7 {
-    border-top-left-radius: 15px;
-    border-top-right-radius: 15px;
-    border-bottom-left-radius: 15px;
-    border-bottom-right-radius: 15px;
-    image-rendering: pixelated;
-    background: url(image/levelGenGrid7.png);
-    background-size: contain;
-    width: 35vw;
-    height: 35vw;
-    max-height: 200px;
-    max-width: 200px;
-}
-#a8 {
-    border-top-left-radius: 15px;
-    border-top-right-radius: 15px;
-    border-bottom-left-radius: 15px;
-    border-bottom-right-radius: 15px;
-    image-rendering: pixelated;
-    background-image: url(image/levelGenGrid8.png);
-    background-size: contain;
-    width: 35vw;
-    height: 35vw;
-    max-height: 200px;
-    max-width: 200px;
-}
-#a9 {
-    border-top-left-radius: 15px;
-    border-top-right-radius: 15px;
-    border-bottom-left-radius: 15px;
-    border-bottom-right-radius: 15px;
-    image-rendering: pixelated;
-    background-image: url(image/levelGenGrid9.png);
+    background-image: url(image/SoulBreakerOther.png);
     background-size: contain;
     width: 35vw;
     height: 35vw;
