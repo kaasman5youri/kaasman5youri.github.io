@@ -424,7 +424,7 @@
     border-bottom-left-radius: 15px;
     border-bottom-right-radius: 15px;
     image-rendering: pixelated;
-    background-image: url(../textures/Scorpion%20V1.png);
+    background-image: url(../textures/ScorpionBossIdleFrame1.png);
     background-size: contain;
     width: 35vw;
     height: 35vw;
@@ -646,6 +646,32 @@
     border-bottom-right-radius: 15px;
     image-rendering: pixelated;
     background-image: url(../textures/small%20explosive%20cactus%20walking%20frame%202.png);
+    background-size: contain;
+    width: 35vw;
+    height: 35vw;
+    max-height: 200px;
+    max-width: 200px;
+}
+#a24 {
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+    image-rendering: pixelated;
+    background-image: url(../textures/scorpionMeleeIdleFrame1.png);
+    background-size: contain;
+    width: 35vw;
+    height: 35vw;
+    max-height: 200px;
+    max-width: 200px;
+}
+#a25 {
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+    image-rendering: pixelated;
+    background-image: url(../textures/scorpionRangedIdleFrame1.png);
     background-size: contain;
     width: 35vw;
     height: 35vw;
