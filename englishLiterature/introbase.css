@@ -183,6 +183,7 @@
     border-bottom-left-radius: 15px;
     border-bottom-right-radius: 15px;
     display: flex;
+    flex-direction: column;
     vertical-align: top;
     align-content: left;
     height: auto;
@@ -198,6 +199,7 @@
     border-bottom-left-radius: 15px;
     border-bottom-right-radius: 15px;
     display: flex;
+    flex-direction: column;
     align-content: left;
     height: auto;
     width: auto;
